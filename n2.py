@@ -1,3 +1,6 @@
+from ast import AugAssign
+
+
 for i in range(100):
     print(i)
 
@@ -12,3 +15,6 @@ for j in k:
 
 
 adding here toto
+
+
+adding AugAssign
